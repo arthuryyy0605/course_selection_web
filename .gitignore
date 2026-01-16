@@ -20,3 +20,6 @@ dist/
 # Logs
 *.log
 npm-debug.log*
+
+# 討論資料目錄
+討論資料/
